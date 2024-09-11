@@ -33,3 +33,14 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+
+2. Create and activate a virtual environment
+
+```
+    python -m venv .venv # On Windows
+    python3 -m venv .venv # On Linux
+    
+    .venv\Scripts\activate # On Windows
+    source .venv/bin/activate
+```
+
