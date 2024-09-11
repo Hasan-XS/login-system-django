@@ -39,6 +39,7 @@ def register_system(request):
 
         except IntegrityError as ie:
 
+
             """
             In this section, I tried to take the entire error text and cut the
             main reason of the error text and show it to the user
