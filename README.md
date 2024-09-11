@@ -10,8 +10,6 @@ A Django-based system for user registration and login featuring a custom user an
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Features
 
